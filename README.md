@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @metalzeppelin
 
+Student at LW Tech
+
 - 👀 I’m interested in ...
 
 Learning about engineering and all things programming
